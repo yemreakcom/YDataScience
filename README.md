@@ -2,6 +2,14 @@
 
 Veri bilimi 📊 çalışmalarım
 
+## Açıklama
+
+- Hızlı notlar 🏃‍♂️ için [Cheat Sheets](Cheat%20Sheets) alanına bakabilirsin
+- Kişisel notlarım 👨‍🏫 [Kişisel Notlar](Ki%C5%9Fisel%20Notlar) dizinindedir
+- Temel python 🐍 bilgisi [Python Notebooks](Python%20Notebooks) adı altında toplanmıştır
+
+> Tüm python 🐍 notlarım için [YPython](https://github.com/yedhrab/YPython) _repository_'isine bakabilirsin.
+
 ## World Quant University
 
 Welcome! We will be taking a deep dive into Data Science over the next few months. This course will be divided into two parts, the first component will cover basic Python and programming while the second component will cover material in Data Science ranging from basic programming to data cleaning and aggregation. The basic syllabus is as follows
