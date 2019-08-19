@@ -88,6 +88,9 @@ df[df['open'].fillna(False)].head() # Nan değerlerini false sayarak listeleme
 
 # Strig'e göre filtreleme (`vegas` içeren şehirleri alma)
 df = df[df['city'].str.contains('Vegas')]
+
+# Listedeki elemanları içeriyor mu? (büyük-küçük harften bağımsız arama)
+df[df['column'].str.lower().isin([x.lower() for x in mylist])]
 ```
 
 ## Fonksiyonlar ve Birleştirme İşlemleri
@@ -142,6 +145,9 @@ df.sort_values('stars').head()
 
 # Bussiness_id'nin indexine göre sıralama
 df.set_index('business_id').sort_index().head()
+
+# Post_code göre sıralayıp, ilk post_code'u alma
+unique_practices = practices.sort_values('post_code').groupby('code').first().reset_index()
 ```
 
 ## Veri Kümelerinin Birleştirilmesi
@@ -236,3 +242,66 @@ yelp_df['review_count'].apply(np.log).hist(bins=30)
 # Çizgi grafiği çizdirme
 pop_growth['Annual Growth Rate (%)'].plot()
 ```
+
+## Egzersinzler
+
+```py
+# Post_code göre sıralayıp, ilk post_code'u alma
+unique_practices = practices.sort_values('post_code').groupby('code').first().reset_index()
+
+# Verileri birleştirme
+merged_data = scripts.merge(unique_practices[['code', 'post_code']], how='left', left_on='practice', right_on='code')
+
+# Post_code ve bnf_name'e ait toplam items'ları hesaplama. Indeksi sıfırlama (post_code değil 0, 1, 2 ... diye olsun)
+total_items_by_pc_bnf = merged_data.groupby(['post_code', 'bnf_name'])['items'].sum().reset_index()
+
+# En yüksek `items`a sahip `post_code`ların index tablosunu alma
+max_mask = total_items_by_pc_bnf.groupby('post_code')['items'].idxmax()
+
+# Maskeden verileri alıp, `post_code`a göre sıralama ve ilk 100 veriyi alma
+max_items_by_pc = total_items_by_pc_bnf.loc[max_mask].sort_values('post_code')[:100]
+
+# `post_code` başına düşen toplam `items`ı hesaplama, indexi `post_code` yerine 0, 1, .. şekline çevirme ve `post_code`a göre sıralama
+sum_items_by_pc = total_items_by_pc_bnf.groupby('post_code')['items'].sum().reset_index().sort_values('post_code')
+
+# Toplam ve Max tablolarını setlerini birleştirme (left join)
+merged_max_sum_items_by_pc = max_items_by_pc.merge(sum_items_by_pc, how="left", on='post_code')
+
+# Toplam / Max oranını hesaplama ve sütuna atma
+merged_max_sum_items_by_pc['ratio'] = merged_max_sum_items_by_pc['items_x'] / merged_max_sum_items_by_pc['items_y']
+
+# Toplamları ve Max değerlerini kaldırma (axis=1 -> sütun'u kaldır, inplace=True -> Değişikliği uygula)
+merged_max_sum_items_by_pc.drop(['items_x', 'items_y'], axis=1, inplace=True)
+
+# Verileri listeye çevirme
+items_by_region = merged_max_sum_items_by_pc.values.tolist()
+```
+
+````py
+merged_data = scripts.merge(unique_practices[['code', 'post_code']], how='left', left_on='practice', right_on='code')
+
+```py
+all_data = pd.merge(left=scripts,right=practices, left_on='practice', right_on='code').filter(['post_code', 'bnf_name', 'items'])
+
+# Bir bnf, birden fazla posta kodunda olmayacak
+# all_data.loc[all_data.groupby('bnf_name')['post_code'].transform(min) == all_data['post_code']]
+
+all_data = all_data.sort_values('post_code')
+
+# Her ayrı post ve bnf için toplam item sayısı
+pb_all_data = all_data.groupby(['post_code', 'bnf_name']).sum()
+
+# Post kodlardaki max item hesaplama (eski item yerine gelir)
+idx = pb_all_data.groupby(['post_code'])['items'].transform(max) == pb_all_data['items']
+df_items_by_region = pb_all_data[idx]['items'] /  pb_all_data.groupby('post_code').sum()['items']
+
+items_by_region = []
+for i in range(100):
+    x, y = df_items_by_region.index[i]
+    z = df_items_by_region[i]
+    items_by_region.append((x, y, z))
+````
+
+## Karma Linkler
+
+- [Pandas ile string işlemleri](https://pandas.pydata.org/pandas-docs/stable/user_guide/text.html)
