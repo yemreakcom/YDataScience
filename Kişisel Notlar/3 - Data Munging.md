@@ -180,3 +180,62 @@ sub_data
 
 </details>
 
+<details>
+<summary>Ek sıralama yöntemi</summary>
+
+İlk önce sorting yapılır ardından son eleman alınır.
+
+```py
+total_prod = sorted((i[u"Year"], i[u'Production']) for i in car_totals)[-1][1]
+```
+
+</details>
+
+
+## Hızlı Notlar
+
+```py
+# Index'e göre değil, kayıtlara göre dict oluşturma 🌟
+soil_data = json.loads(rev.to_json(orient="records"))
+
+# *'lar soldan kaldırıp toplama
+total = sum([float(i[u'Revenue'].rstrip('*')) for i in oil_data])
+
+# Max işlemi (2. itema göre max alma)
+max(overlaps, key=lambda x : x[1])[0]
+
+# Sıralama ve en yüksek değeri alma
+total_prod = df_totals.sort_values(by='Year').iloc[-1]['Production']
+```
+
+```py
+# orient varken (satıra göre yapar)
+[{'Company': 'Saudi Aramco', 'Revenue': '465.49'},
+ {'Company': 'Sinopec Group', 'Revenue': '448.00'}]
+
+# orient olmazsa (sütuna göre yapar)
+{'Company': {'0': 'Saudi Aramco',
+  '1': 'Sinopec Group',
+  '2': 'China National Petroleum Corporation',
+  '3': 'Exxon Mobil',
+  '4': 'Royal Dutch Shell',
+```
+
+### Fuzzy Match
+
+Kelimelerin birbirine çok yakın olanlarını bulur.
+
+```py
+def fuzzy_match(word, s):
+    words = set(word.split(' '))
+    overlaps = [(k, len(v.intersection(words))) for k, v in s.items()]
+    return max(overlaps, key=lambda x : x[1])[0]
+```
+
+```py
+split_names = {i: set(i.split(' ')) for i in shares.keys()}
+for i in petro_companies:
+    match = fuzzy_match(i, split_names)
+    print("matched {} to {}".format(i, match))
+    market_share[i] = shares[match]
+```
