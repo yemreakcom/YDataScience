@@ -14,6 +14,9 @@ Veri bilimi 📊 çalışmalarım
 
 ## World Quant University Takvimi
 
+- Video eğitimlerin takvimi 📅 için [buraya](res%5CDS%20Module%20Schedule.pdf) bakabilirsin.
+- Videolara 📺 [buradan](https://drive.google.com/open?id=1Y7tfAhXWvdrdzg6uD00T3ZpzStnCjGIB) erişebilirsin.
+
 | Week | Material                                                                   |
 | ---- | -------------------------------------------------------------------------- |
 | 1 ✔  | Programming and Python fundamentals, Data structures (miniproject: in, ip) |
