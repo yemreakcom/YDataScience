@@ -2,7 +2,7 @@
 
 Veri bilimi 📊 çalışmalarım
 
-## Açıklama
+## 🗽 Açıklama
 
 - Hızlı notlar 🏃‍♂️ için [Cheat Sheets](Cheat%20Sheets) alanına bakabilirsin.
 - Kişisel notlarım 👨‍🏫 [Kişisel Notlar](Ki%C5%9Fisel%20Notlar) içerisindedir.
@@ -12,7 +12,7 @@ Veri bilimi 📊 çalışmalarım
 
 > Tüm python 🐍 notlarım için [YPython](https://github.com/yedhrab/YPython) _repository_'isine bakabilirsin.
 
-## World Quant University Takvimi
+## 🏫 World Quant University Takvimi
 
 - Video eğitimlerin takvimi 📅 için [buraya](res%5CDS%20Module%20Schedule.pdf) bakabilirsin.
 - Videolara 📺 [buradan](https://drive.google.com/open?id=1Y7tfAhXWvdrdzg6uD00T3ZpzStnCjGIB) erişebilirsin.
@@ -27,11 +27,11 @@ Veri bilimi 📊 çalışmalarım
 | 6 ✔  | Data munging                                                               |
 | 7 😕 | SQL & Object-relation mapping                                              |
 
-## Harici Bağlantılar
+## 🔗 Harici Bağlantılar
 
 - [Example of K-Means Clustering in Python](https://datatofish.com/k-means-clustering-python/)
 
-## Destek ve İletişim
+## 💖 Destek ve İletişim
 
 **The [MIT License](https://choosealicense.com/licenses/mit/) &copy; Yunus Emre Ak**
 

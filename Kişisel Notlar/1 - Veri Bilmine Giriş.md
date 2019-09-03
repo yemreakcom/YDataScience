@@ -1,27 +1,5 @@
 # Veri Bilimine Giriş <!-- omit in toc -->
 
-## İçerikler <!-- omit in toc -->
-
-- [Hızlı Giriş](#H%C4%B1zl%C4%B1-Giri%C5%9F)
-  - [CSV ve JSON](#CSV-ve-JSON)
-  - [Dosya Tipleri](#Dosya-Tipleri)
-  - [Sık Kullanılan Kütüphaneler](#S%C4%B1k-Kullan%C4%B1lan-K%C3%BCt%C3%BCphaneler)
-- [Tablo İşlemlerine Giriş (`csv`)](#Tablo-%C4%B0%C5%9Flemlerine-Giri%C5%9F-csv)
-  - [Pandas ile CSV Oluşturma](#Pandas-ile-CSV-Olu%C5%9Fturma)
-- [Webteki JavaScript Verileri (`json`)](#Webteki-JavaScript-Verileri-json)
-  - [JSON Yapısı](#JSON-Yap%C4%B1s%C4%B1)
-  - [JSON Okuma](#JSON-Okuma)
-- [DataFrame Metodları](#DataFrame-Metodlar%C4%B1)
-- [Sıkıştırılmış Veriler (`gzip`)](#S%C4%B1k%C4%B1%C5%9Ft%C4%B1r%C4%B1lm%C4%B1%C5%9F-Veriler-gzip)
-  - [Gzip Metodları](#Gzip-Metodlar%C4%B1)
-  - [Gzip Örnekleri](#Gzip-%C3%96rnekleri)
-- [Serileştirme (`pickle`)](#Serile%C5%9Ftirme-pickle)
-  - [Pickle Metodları](#Pickle-Metodlar%C4%B1)
-  - [Pickle Örnekleri](#Pickle-%C3%96rnekleri)
-- [NumPy Dosya Formatı (`numpy`)](#NumPy-Dosya-Format%C4%B1-numpy)
-  - [NumPy Metodları](#NumPy-Metodlar%C4%B1)
-  - [Numpy Örnekleri](#Numpy-%C3%96rnekleri)
-
 ## Hızlı Giriş
 
 - CSV, JSON işlemleri için `pandas` _package_'ı kullanılır
