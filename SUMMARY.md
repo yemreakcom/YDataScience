@@ -1,3 +1,6 @@
+# Summary
+
+- [📊 Veri Bilimi](./README.md)
   - [Cheat Sheets](./Cheat%20Sheets/README.md)
   - [Data Science Notebooks](./Data%20Science%20Notebooks/README.md)
     - [data](./Data%20Science%20Notebooks/data/README.md)
@@ -20,3 +23,15 @@
   - [Python Notebooks](./Python%20Notebooks/README.md)
     - [images](./Python%20Notebooks/images/README.md)
     - [miniprojects](./Python%20Notebooks/miniprojects/README.md)
+
+## ✨ Özenle Hazırladığım Diğer Dökümanlarım
+
+- [📖 Kişisel Ansiklopedim](https://wiki.yemreak.com)
+- [📈 Üretkenlik notlarım](https://pro.yemreak.com)
+- [🐍 Python notlarım](https://python.yemreak.com)
+- [📊 Data Science notlarım](https://ds.yemreak.com)
+- [🏫 İstanbul Üniversitesi - Bilgisayar Mühendisliği Notları](https://iuce.yemreak.com)
+- [📜 Kişisel scriptlerim](https://github.com/yedhrab/YScripts)
+- [👨‍🏫💻🕸🧠 Makine öğrenimi, Sinir Ağları ve Deep Learning üzerine çalışmalarım](https://ai.yemreak.com)
+- [⚛️🔥 React ve Firebase projem](https://github.com/yedhrab/YReact-Firebase)
+- [📱 Android notlarım](https://android.yemreak.com)

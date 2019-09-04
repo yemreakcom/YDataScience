@@ -1,6 +1,8 @@
-# Data Science
+---
+description: Veri bilimi 📊 çalışmalarım
+---
 
-Veri bilimi 📊 çalışmalarım
+# 📊 Veri Bilimi
 
 ## 🗽 Açıklama
 
