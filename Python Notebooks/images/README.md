@@ -1,9 +1,8 @@
 # images
 
+<!--Index-->
 
-<!--HariciDosyalar-->
-
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [hash_illustration.png](./hash_illustration.png)
 - [high_score_flowchart.png](./high_score_flowchart.png)
@@ -12,5 +11,4 @@
 - [set_operations.png](./set_operations.png)
 
 
-<!--HariciDosyalar-->
-
+<!--Index-->

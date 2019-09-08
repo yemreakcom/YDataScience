@@ -1,9 +1,8 @@
 # Cheat Sheets
 
+<!--Index-->
 
-<!--HariciDosyalar-->
-
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [0 - Pandas cheatsheet Visualizied.pdf](./0%20-%20Pandas%20cheatsheet%20Visualizied.pdf)
 - [Beginner Python Cheat Sheets.pdf](./Beginner%20Python%20Cheat%20Sheets.pdf)
@@ -25,5 +24,4 @@
 - [spaCy.pdf](./spaCy.pdf)
 
 
-<!--HariciDosyalar-->
-
+<!--Index-->

@@ -1,9 +1,8 @@
 # data
 
+<!--Index-->
 
-<!--HariciDosyalar-->
-
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [bad_csv.csv](./bad_csv.csv)
 - [csv_sample.txt](./csv_sample.txt)
@@ -35,5 +34,4 @@
 - [yelp.json.gz](./yelp.json.gz)
 
 
-<!--HariciDosyalar-->
-
+<!--Index-->
