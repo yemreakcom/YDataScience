@@ -33,6 +33,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🌌 Değişikler
 
+* Update SUMMARY.md. [Yunus Emre]
+
 * 📖 YWiki'den notlar aktarıldı. [Yunus Emre]
 
 * 📖 YWiki'ye aktarıldı. [Yunus Emre]

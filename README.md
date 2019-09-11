@@ -1,5 +1,5 @@
 ---
-description: Veri bilimi 📊 çalışmalarım
+description: Veri bilimi notlarım 📚
 ---
 
 # 📊 Veri Bilimi
