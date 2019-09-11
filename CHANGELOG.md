@@ -45,6 +45,10 @@ description: Sitede neler olup bittiğinin raporudur.
 
 * Yapı yenilemesi 🏗 [Yunus Emre]
 
+### 🗽 Düzeltmeler
+
+* 👨‍🔧 İki başlık sorunu giderildi. [Yunus Emre]
+
 ### 📡 Diğerler
 
 * Güzelleştirme. [Yunus Emre]
