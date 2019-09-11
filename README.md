@@ -17,39 +17,25 @@ description: Veri bilimi notlarım 📚
 
 ## 🗼 Açıklama
 
-- Hızlı notlar 🏃‍♂️ için [Cheat Sheets](Cheat%20Sheets) alanına bakabilirsin.
+- Hızlı notlar için 🤸‍ [Cheat Sheets](Cheat%20Sheets) alanına bakabilirsin.
 - Kişisel notlarım 👨‍🏫 [Kişisel Notlar](Ki%C5%9Fisel%20Notlar) içerisindedir.
-- Data Science 📊 bilgileri [Data Science Notebooks](Data%20Science%20Notebooks) altındadır.
-- Temel python 🐍 bilgisi [Python Notebooks](../Programlama%20Notlar%C4%B1%5CPython%5CPython%20Notebooks) adı altında toplanmıştır.
-- Video kursları 🎦için [Drive](https://drive.google.com/open?id=1IhifsrBR4besfTnOIw-iSbsOTTsUgy7A)'a bakabilirsin.
+- Düzenlenmiş notlarım 👨‍🔧 [Düzeltilmiş Notlar](D%C3%BCzeltilmi%C5%9F%20Notlar) alanındadır
+- Online eğitim aldım 🏫 [World Quant University](WQU%20Data%20Science) notları
 
 > Tüm python 🐍 notlarım için [YPython](https://github.com/yedhrab/YPython) _repository_'isine bakabilirsin.
-
-## 🏫 World Quant University Takvimi
-
-- Video eğitimlerin takvimi 📅 için [buraya](res%5CDS%20Module%20Schedule.pdf) bakabilirsin.
-- Videolara 📺 [buradan](https://drive.google.com/open?id=1Y7tfAhXWvdrdzg6uD00T3ZpzStnCjGIB) erişebilirsin.
-
-| Week | Material                                                                   |
-| ---- | -------------------------------------------------------------------------- |
-| 1 ✔  | Programming and Python fundamentals, Data structures (miniproject: in, ip) |
-| 2 ✔  | Algorithms, object-oriented programming (miniproject: vc)                  |
-| 3 ✔  | Pythonic style, Reading and writing data (miniproject: pw)                 |
-| 4 ✔  | Python data science packages                                               |
-| 5 😕 | Pandas, Intro to statistics (miniproject: dw)                              |
-| 6 ✔  | Data munging                                                               |
-| 7 😕 | SQL & Object-relation mapping                                              |
 
 ## 🚙 Diğer Özenle Hazırladığım Notlar
 
 Veri yığılmasını 📚 engellemek için içeriği fazla olan 📈 bilgiler farklı _repository_'lere aktarıldı.
 
-- [Kişisel Ansiklopedim](https://wiki.yemreak.com/)
-- [Python Notlarım](https://python.yemreak.com/)
-- [Yapay Zeka Notlarım](https://ai.yemreak.com/)
-- [Android Notlarım](https://android.yemreak.com/)
-- [İstanbul Üniversitesi - Bilgisayar Mühendisliği Notları](https://iuce.yemreak.com)
-- [React ve Firebase projem](https://github.com/yedhrab/YReact-Firebase)
+> Sol alttaki alandan da bunlara erişebilirsin ✨
+
+- [📖 Kişisel Ansiklopedim](https://wiki.yemreak.com/)
+- [🐍 Python Notlarım](https://python.yemreak.com/)
+- [🧠 Yapay Zeka Notlarım](https://ai.yemreak.com/)
+- [📱 Android Notlarım](https://android.yemreak.com/)
+- [🏫 İstanbul Üniversitesi - Bilgisayar Mühendisliği Notları](https://iuce.yemreak.com)
+- [⚛ React ve 🔥 Firebase projem](https://github.com/yedhrab/YReact-Firebase)
 
 ## 🔗 Harici Bağlantılar
 

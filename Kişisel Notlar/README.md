@@ -1,3 +1,7 @@
-# Kişisel Notlar
+---
+description: Kendi çıkarımlarımla ve araştırmalarımla oluşturduğum 📊 veri bilimi notları 
+---
 
-Kendi çıkarımlarımla ve araştırmalarımla oluşturduğum veri bilimi notları 📊
+# 👨‍🏫 Kişisel Notlar
+
+
