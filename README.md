@@ -4,7 +4,7 @@ description: Veri bilimi notlarım 📚
 
 # 📊 Veri Bilimi
 
-# 🗽 Hoş Geldin
+## 🗽 Hoş Geldin
 
 - Sağ üstteki [🔍 Arama Buton](https://ds.yemreak.com/?q=)'nu kullanmayı asla asla ihmal etme
 - En son gelen güncellemeleri [✨ Commits](https://github.com/yedhrab/YDataScience/commits/master) alanından takip edebilirsin
