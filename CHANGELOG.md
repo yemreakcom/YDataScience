@@ -33,6 +33,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🌌 Değişikler
 
+* 📖 YWiki'den notlar aktarıldı. [Yunus Emre]
+
 * 📖 YWiki'ye aktarıldı. [Yunus Emre]
 
 * Kurs takvimi yenilendi ✨ [Yunus Emre]
