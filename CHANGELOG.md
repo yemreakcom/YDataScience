@@ -51,6 +51,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 📡 Diğerler
 
+* 👨‍🔧 Yapı onarıldı, güzelleştirildi. [Yunus Emre]
+
 * Güzelleştirme. [Yunus Emre]
 
 * 🔮 GitBoooook. [Yunus Emre]
