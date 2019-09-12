@@ -4,7 +4,7 @@ description: Veri bilimi konusunu tüm detaylarına kadar anlatan dökümanları
 
 # 🚀 Awesome Data Science
 
-[Awesome Data Science](https://github.com/academic/awesome-datascience#readme) çalışamasını referans alır.
+> [Awesome Data Science](https://github.com/academic/awesome-datascience#readme) çalışamasını referans alır.
 
 ## Motivation
 
