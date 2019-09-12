@@ -1,5 +1,12 @@
+---
+description: Özet hale getirilmiş, hızlı notları barındırır 🚀
+---
+
 # 🤸‍ Cheat Sheets
 
+## 🚀 Faydalı Projeler
+
+- [Data Science Cheat Sheets](https://github.com/abhat222/Data-Science--Cheat-Sheet)
 
 <!--Index-->
 
