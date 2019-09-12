@@ -4,6 +4,7 @@
 
 - [📊 Veri Bilimi](./README.md)
   - [👀 Neler değişti](./CHANGELOG.md)
+  - [🚀 Awesome Data Science](./0%20-%20Awesome/README.md)
   - [🤸‍ Cheat Sheets](./Cheat%20Sheets/README.md)
   - [👨‍🔧 Düzeltilmiş Notlar](./D%C3%BCzeltilmi%C5%9F%20Notlar/README.md)
     - [🕵️‍ İnternetten Veri Çekme İşlemi](./D%C3%BCzeltilmi%C5%9F%20Notlar/%C4%B0nternetten%20Veri%20%C3%87ekme%20%C4%B0%C5%9Flemi.md)
