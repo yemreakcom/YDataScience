@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [bad_csv.csv](./bad_csv.csv)
 - [csv_sample.txt](./csv_sample.txt)
@@ -33,6 +33,5 @@
 - [short_text.txt](./short_text.txt)
 - [short_text.txt.gz](./short_text.txt.gz)
 - [yelp.json.gz](./yelp.json.gz)
-
 
 <!--Index-->

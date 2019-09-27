@@ -9,7 +9,19 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🚀 Yenilikler
 
+* ➕ Yeni cheat sheets linki eklendi. [Yunus Emre]
+
+  https://github.com/abhat222/Data-Science--Cheat-Sheet
+
 * 👓 Awesome alanı eklendi. [Yunus Emre]
+
+### 🌌 Değişikler
+
+* Update .gitchangelog.rc. [Yunus Emre]
+
+### 🗽 Düzeltmeler
+
+* Önemsiz düzeltme. [Yunus Emre]
 
 
 ## 1.0 (2019-09-11)
@@ -34,10 +46,6 @@ description: Sitede neler olup bittiğinin raporudur.
 
 * Açıklamalar 📃 ve hızlı notlar 🏃‍♀️ eklendi. [Yunus Emre]
 
-* Data Science 📊 notları aktarıldı. [Yunus Emre]
-
-  Artık yeni Data Science 📊 notları burada derlenecek ✨
-
 ### 🌌 Değişikler
 
 * Giriş sayfası yenilendi. [Yunus Emre]
@@ -51,6 +59,10 @@ description: Sitede neler olup bittiğinin raporudur.
 * Kurs takvimi yenilendi ✨ [Yunus Emre]
 
 * Yapı yenilemesi 🏗 [Yunus Emre]
+
+* Data Science 📊 notları aktarıldı. [Yunus Emre]
+
+  Artık yeni Data Science 📊 notları burada derlenecek ✨
 
 ### 🗽 Düzeltmeler
 

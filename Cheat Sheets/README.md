@@ -10,7 +10,7 @@ description: Özet hale getirilmiş, hızlı notları barındırır 🚀
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [0 - Pandas cheatsheet Visualizied.pdf](./0%20-%20Pandas%20cheatsheet%20Visualizied.pdf)
 - [Beginner Python Cheat Sheets.pdf](./Beginner%20Python%20Cheat%20Sheets.pdf)
@@ -30,6 +30,5 @@ description: Özet hale getirilmiş, hızlı notları barındırır 🚀
 - [SciPy - Linear Algebra.pdf](./SciPy%20-%20Linear%20Algebra.pdf)
 - [Seaborn.pdf](./Seaborn.pdf)
 - [spaCy.pdf](./spaCy.pdf)
-
 
 <!--Index-->

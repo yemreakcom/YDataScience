@@ -7,7 +7,7 @@ description: WQU Data Science kursunun baz aldığı notebooklar
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [1 - DS_IO.ipynb](./1%20-%20DS_IO.ipynb)
 - [2 - DS_Basic_DS_Modules.ipynb](./2%20-%20DS_Basic_DS_Modules.ipynb)
@@ -16,6 +16,5 @@ description: WQU Data Science kursunun baz aldığı notebooklar
 - [5 - DS_Data_Munging.ipynb](./5%20-%20DS_Data_Munging.ipynb)
 - [6 - DS_SQL.ipynb](./6%20-%20DS_SQL.ipynb)
 - [7 - DS_Classes_and_ORM.ipynb](./7%20-%20DS_Classes_and_ORM.ipynb)
-
 
 <!--Index-->
