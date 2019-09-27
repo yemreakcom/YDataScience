@@ -23,6 +23,10 @@ description: Sitede neler olup bittiğinin raporudur.
 
 * Önemsiz düzeltme. [Yunus Emre]
 
+### 📡 Diğerler
+
+* 🏗 Yapısal Değişiklik. [Yunus Emre]
+
 
 ## 1.0 (2019-09-11)
 
