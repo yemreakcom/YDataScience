@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🚀 Yenilikler
 
+* 🧰 Notlar yenilendi ve başlangıç kiti eklendi. [Yunus Emre]
+
 * ➕ Yeni cheat sheets linki eklendi. [Yunus Emre]
 
   https://github.com/abhat222/Data-Science--Cheat-Sheet
