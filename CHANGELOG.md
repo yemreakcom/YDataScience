@@ -25,6 +25,10 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🗽 Düzeltmeler
 
+* 🐞 Link sorunları giderildi. [Yunus Emre]
+
+* Delete .gitchangelog.rc. [Yunus Emre]
+
 * Önemsiz düzeltme. [Yunus Emre]
 
 ### 📡 Diğerler
