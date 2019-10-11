@@ -33,6 +33,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 📡 Diğerler
 
+* ✨ Emojilendi. [Yunus Emre]
+
 * 🏗 Yapısal Değişiklik. [Yunus Emre]
 
 
