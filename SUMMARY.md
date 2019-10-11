@@ -8,7 +8,7 @@
     - [🚀 Awesome Data Science](./0%20-%20Faydal%C4%B1%20Kaynaklar/Awesome%20Data%20Science.md)
     - [✨ Popüler Kullanımlar](./0%20-%20Faydal%C4%B1%20Kaynaklar/Pop%C3%BCler%20Kullan%C4%B1mlar.md)
   - [🤸‍ Cheat Sheets](./Cheat%20Sheets/README.md)
-  - [📗 Data Science Notebooks](./Data%20Science%20Notebooks/README.md)
+  - [📘 Data Science Notebooks](./Data%20Science%20Notebooks/README.md)
     - [🗽 Açıklama](./Data%20Science%20Notebooks/0%20-%20A%C3%A7%C4%B1klama.md)
     - [👨‍🏫 Eğitici Notebooklar](./Data%20Science%20Notebooks/1%20-%20E%C4%9Fitici%20Notebooklar.md)
     - [👨‍💻 Çalışma Notebookları](./Data%20Science%20Notebooks/2%20-%20%C3%87al%C4%B1%C5%9Fma%20Notebooklar%C4%B1.md)
