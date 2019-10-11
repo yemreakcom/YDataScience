@@ -8,6 +8,14 @@
     - [🚀 Awesome Data Science](./0%20-%20Faydal%C4%B1%20Kaynaklar/Awesome%20Data%20Science.md)
     - [✨ Popüler Kullanımlar](./0%20-%20Faydal%C4%B1%20Kaynaklar/Pop%C3%BCler%20Kullan%C4%B1mlar.md)
   - [🤸‍ Cheat Sheets](./Cheat%20Sheets/README.md)
+  - [📗 Data Science Notebooks](./Data%20Science%20Notebooks/README.md)
+    - [🗽 Açıklama](./Data%20Science%20Notebooks/0%20-%20A%C3%A7%C4%B1klama.md)
+    - [1 - Eğitici Notebooklar](./Data%20Science%20Notebooks/1%20-%20E%C4%9Fitici%20Notebooklar.md)
+    - [2 - Çalışma Notebookları](./Data%20Science%20Notebooks/2%20-%20%C3%87al%C4%B1%C5%9Fma%20Notebooklar%C4%B1.md)
+    - [3 - Diğer Notebooklar](./Data%20Science%20Notebooks/3%20-%20Di%C4%9Fer%20Notebooklar.md)
+    - [data](./Data%20Science%20Notebooks/data.md)
+    - [dw-data](./Data%20Science%20Notebooks/dw-data.md)
+    - [pw-data](./Data%20Science%20Notebooks/pw-data.md)
   - [👨‍🔧 Düzeltilmiş Notlar](./D%C3%BCzeltilmi%C5%9F%20Notlar/README.md)
     - [🕵️‍ İnternetten Veri Çekme İşlemi](./D%C3%BCzeltilmi%C5%9F%20Notlar/%C4%B0nternetten%20Veri%20%C3%87ekme%20%C4%B0%C5%9Flemi.md)
   - [👨‍🏫 Kişisel Notlar](./Ki%C5%9Fisel%20Notlar/README.md)
@@ -26,12 +34,6 @@
   - [🏫 World Quant University](./WQU%20Data%20Science/README.md)
     - [📅 World Quant University Takvimi](./WQU%20Data%20Science/World%20Quant%20University%20Takvimi.md)
     - [🎦 WQU Video Linkleri](./WQU%20Data%20Science/WQU%20Video%20Linkleri.md)
-    - [📗 Data Science Notebooks](./WQU%20Data%20Science/Data%20Science%20Notebooks/README.md)
-      - [data](./WQU%20Data%20Science/Data%20Science%20Notebooks/data/README.md)
-      - [externals](./WQU%20Data%20Science/Data%20Science%20Notebooks/externals/README.md)
-      - [miniprojects](./WQU%20Data%20Science/Data%20Science%20Notebooks/miniprojects/README.md)
-        - [dw-data](./WQU%20Data%20Science/Data%20Science%20Notebooks/miniprojects/dw-data/README.md)
-        - [pw-data](./WQU%20Data%20Science/Data%20Science%20Notebooks/miniprojects/pw-data/README.md)
 
 <!--Index-->
 

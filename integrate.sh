@@ -1,8 +1,8 @@
-python ../YGitBookIntegration/integrate.py .
+python ../YGitBookIntegration/integrate.py . -ll 1
 echo "---
 description: Sitede neler olup bittiğinin raporudur.
 ---
 " > CHANGELOG.md
 
-gitchangelog.exe >> CHANGELOG.md
-gbash github .
+ygitchangelog.exe >> CHANGELOG.md
+bash github .

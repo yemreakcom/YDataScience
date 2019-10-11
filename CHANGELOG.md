@@ -17,6 +17,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🌌 Değişikler
 
+* Update Popüler Kullanımlar.md. [Yunus Emre]
+
 * Update .gitchangelog.rc. [Yunus Emre]
 
 ### 🗽 Düzeltmeler
