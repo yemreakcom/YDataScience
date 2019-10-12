@@ -27,6 +27,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🗽 Düzeltmeler
 
+* 🧹 Gereksiz linkler kaldırıldı. [Yunus Emre]
+
 * 🧰 Veri Bilimi Başlangıç Kiti düzeltildi. [Yunus Emre]
 
 * 🐞 Link sorunları giderildi. [Yunus Emre]
