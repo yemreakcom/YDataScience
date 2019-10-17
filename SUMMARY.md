@@ -1,6 +1,6 @@
-<!--Index-->
-
 # Summary
+
+<!--Index-->
 
 - [📊 Veri Bilimi](./README.md)
   - [👀 Neler değişti](./CHANGELOG.md)

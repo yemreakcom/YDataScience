@@ -39,6 +39,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 📡 Diğerler
 
+* 💫 [Yunus Emre]
+
 * ✨ Emojilendi. [Yunus Emre]
 
 * 🏗 Yapısal Değişiklik. [Yunus Emre]
