@@ -39,6 +39,10 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 📡 Diğerler
 
+* ✨ [Yunus Emre]
+
+* 🐞 [Yunus Emre]
+
 * 💫 [Yunus Emre]
 
 * ✨ Emojilendi. [Yunus Emre]
