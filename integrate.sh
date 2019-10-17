@@ -1,4 +1,4 @@
-python ../YGitBookIntegration/integrate.py . -ll 1
+python ../YGitBookIntegration/integrate.py . -ll 1 -l ../YWiki/Veri \ Bilimi/README.md -u https://iuce.yemreak.com
 echo "---
 description: Sitede neler olup bittiğinin raporudur.
 ---
@@ -6,3 +6,4 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ygitchangelog.exe >> CHANGELOG.md
 bash github .
+
