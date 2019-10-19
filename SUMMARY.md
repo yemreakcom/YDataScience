@@ -4,6 +4,7 @@
 
 - [📊 Veri Bilimi](./README.md)
   - [👀 Neler değişti](./CHANGELOG.md)
+  - [💖 Katkıda Bulunma Rehberi](./CONTRIBUTING.md)
   - [🌟 Faydalı Kaynaklar](./0%20-%20Faydal%C4%B1%20Kaynaklar/README.md)
     - [🚀 Awesome Data Science](./0%20-%20Faydal%C4%B1%20Kaynaklar/Awesome%20Data%20Science.md)
     - [✨ Popüler Kullanımlar](./0%20-%20Faydal%C4%B1%20Kaynaklar/Pop%C3%BCler%20Kullan%C4%B1mlar.md)
