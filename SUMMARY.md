@@ -38,11 +38,15 @@
 
 <!--Index-->
 
-## ✨ Özenle Hazırladığım Diğer Dökümanlarım
+## Derlenmiş Çalışmalarım
 
-- [📖 Kişisel Ansiklopedim](https://wiki.yemreak.com/)
-- [🐍 Python Notlarım](https://python.yemreak.com/)
-- [🧠 Yapay Zeka Notlarım](https://ai.yemreak.com/)
-- [📱 Android Notlarım](https://android.yemreak.com/)
-- [🏫 İstanbul Üniversitesi - Bilgisayar Mühendisliği Notları](https://iuce.yemreak.com)
-- [⚛ React ve 🔥 Firebase projem](https://github.com/yedhrab/YReact-Firebase)
+- [📖 Kişisel Kütüphanem](https://wiki.yemreak.com)
+- [🐍 Python Notlarım](https://python.yemreak.com)
+- [🧠 Yapay Zeka Notlarım](https://ai.yemreak.com)
+- [🎇 Windows 10 Notlarım](https://windows.yemreak.com)
+- [📊 Veri Bilimi Notlarım](https://ds.yemreak.com)
+- [📲 Android Notlarım](https://android.yemreak.com)
+- [👨‍🏫 Öğrenme Yolları](https://learn.yemreak.com)
+- [📕 Git Notları](https://book.git.yemreak.com/)
+- [🔥 Firebase ve React Projem](https://github.com/yedhrab/YReact-Firebase)
+- [📜 Kişisel Scriptlerim](https://github.com/YEmreAk/YScripts)
