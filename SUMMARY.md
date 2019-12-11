@@ -1,6 +1,6 @@
 # Table of contents
 
-* [📊 Veri Bilimi](README.md)
+* [📊 Veri Bilimi Notlarım](README.md)
 * [👀 Neler değişti](changelog.md)
 * [💖 Katkıda Bulunma Rehberi](contributing.md)
 * [🌟 Faydalı Kaynaklar](0-faydali-kaynaklar/README.md)

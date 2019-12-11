@@ -2,7 +2,7 @@
 description: "Veri bilimi notlarım \U0001F4DA"
 ---
 
-# 📊 Veri Bilimi
+# 📊 Veri Bilimi Notlarım
 
 ## 🗽 Hoş Geldin
 
