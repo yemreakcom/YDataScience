@@ -1,5 +1,5 @@
 ---
-description: "Veri bilimi notlarım \U0001F4DA"
+description: Yunus Emre Ak ~ YEmreAk (@yedhrab) 'ın veri bilimi (data science) notları
 ---
 
 # 📊 Veri Bilimi Notlarım
