@@ -4,6 +4,8 @@ description: Yunus Emre Ak ~ YEmreAk (@yedhrab) 'ın veri bilimi (data science) 
 
 # 📊 Veri Bilimi Notlarım
 
+**TÜM NOTLAR [Yapay Zeka ~ YEmreAk](https://ai.yemreak.com) ÜZERİNE AKTARILMIŞTIR**
+
 ## 🗽 Hoş Geldin
 
 * Sağ üstteki [🔍 Arama Buton](https://ds.yemreak.com/?q=)'nu kullanmayı asla asla ihmal etme
